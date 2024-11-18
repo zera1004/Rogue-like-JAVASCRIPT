@@ -1,0 +1,41 @@
+[
+  {
+    "userId": "test",
+    "stage": 1,
+    "date": [
+      "2024-11-13 18:05"
+    ]
+  },
+  {
+    "userId": "test2",
+    "stage": 2,
+    "date": [
+      "2024-11-13 18:08"
+    ]
+  },
+  {
+    "userId": "p60jltpe61q",
+    "stage": 1,
+    "date": "2024-11-16 06:40"
+  },
+  {
+    "userId": "j5tuxksg2sc",
+    "stage": 4,
+    "date": "2024-11-16 06:57"
+  },
+  {
+    "userId": "2g5ug99kj31",
+    "stage": 1,
+    "date": "2024-11-16 06:58"
+  },
+  {
+    "userId": "odtiwi1afor",
+    "stage": 1,
+    "date": "2024-11-16 07:44"
+  },
+  {
+    "userId": "9gzivbzixoq",
+    "stage": 11,
+    "date": "2024-11-16 07:48"
+  }
+]
