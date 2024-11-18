@@ -44,7 +44,6 @@ export function ranking() {
     }
 
     let outRanking = readlineSync.question('\n나가시겠습니까? [y/n] ');
-    console.log(outRanking);
     if (outRanking !== 'y' && outRanking !== 'Y') {
         ranking()
     }
